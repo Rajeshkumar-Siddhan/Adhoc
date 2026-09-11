@@ -1,1 +1,1 @@
-
+create table emp(id int);
